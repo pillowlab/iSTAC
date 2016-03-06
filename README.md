@@ -27,6 +27,9 @@ Download
 Usage
 =====
 
+* Launch matlab and cd into the directory containing the code
+ (e.g. `cd code/iSTAC/`).
+
 * Examine the script `test_iSTAC_script.m` for a line-by-line tutorial
 on how to use the code contained in this package, which goes through
 several simulated examples.
