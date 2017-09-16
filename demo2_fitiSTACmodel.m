@@ -97,6 +97,7 @@ xlabel('normalized filter output');
 ylabel('firing rate (Hz)'); 
 legend('filter 1', 'filter 2', 'filter3', 'location', 'northwest');
 title('1D nonlinearites iSTAC filters');
+
 %% 4. Fit nonlinearity for two 2-filter models 
 
 % Fit iSTAC model nonlinearity using filters 1 and 2

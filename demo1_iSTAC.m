@@ -1,4 +1,4 @@
-% test_iSTAC_script.m
+% demo1_iSTAC.m
 %
 % Simple script for testing out the iSTAC code
 
@@ -145,3 +145,4 @@ set(gca, 'xscale', 'log', 'yscale', 'linear');
 legend('STA', 'iSTAC', 'location', 'northeast');
 xlabel('stim length (samples)');
 ylabel('error (radians)');
+title('comparison of STA and iSTAC');
